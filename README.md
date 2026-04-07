@@ -62,13 +62,3 @@ This project is stable but unmaintained. Upcoming bugs won't be fixed and reposi
 This tool is licensed under the GNU General Public License v3.0.
 
 [Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
-
-## Support
-
-Support me by signing up to DigitalOcean using my link ($200 free credits)
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=31f5ef768eb3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-<div align="center">
-  <img src="https://github.com/sundowndev/static/raw/main/sponsors.svg?v=c68eba9" width="100%" heigh="auto" />
-</div>
